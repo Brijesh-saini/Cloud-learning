@@ -1,3 +1,5 @@
+Learn Linux & Git video Link : https://www.youtube.com/live/EUu1E_YKGTw
+
 #!/bin/bash
 
 ls	# Lists all files and directories in the present working directory
